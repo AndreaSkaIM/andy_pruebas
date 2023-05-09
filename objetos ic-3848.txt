@@ -1,0 +1,6 @@
+objetos"ic-3848":
+------------------
+panel_control.pbl(w_main)
+	open
+	
+modifico el gestion.pbr incluyendo el icono de fa express y el del fondo de la fa express

@@ -1,0 +1,12 @@
+Pasos:
+1-instalar GIT
+	entrar a la pagina: https://git-scm.com/download/win
+	descargar version para windows sw 64 bits
+	
+2- instalar git
+	usando el exe descargado (Git-2.40.1-64-bit)
+	next,next...next
+	
+3- crear cuenta git
+	- ir a https://github.com/  y crear una cuenta usando el correo de la oficina
+	
