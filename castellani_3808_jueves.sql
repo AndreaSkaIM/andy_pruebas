@@ -134,3 +134,9 @@ UPDATE ventas_retenciones SET cod_cuenta = 1221005 WHERE id= 52138025 ;
 
 UPDATE ventas_retenciones SET cod_cuenta = 1221005 WHERE id IN (52103219,52130358,52157884);
 UPDATE ventas_retenciones SET cod_cuenta = 1221005 WHERE id IN (52162002);
+
+
+
+ fhdusio fgasd gbfadl gfiwl ghdfuilsgfsd
+f hadi fhadj fhda
+

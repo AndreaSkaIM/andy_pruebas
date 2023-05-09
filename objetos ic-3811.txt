@@ -6,3 +6,12 @@ movimientos_otros_2.pbl
 	dw_exp_percepcion_sicore
 	
 gestion\m_menu_principal
+
+
+
+
+
+ huoi hugfi hgsdf
+ 
+ 
+agrego estas lineas para ver como subirlas despues en git
