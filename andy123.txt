@@ -1,7 +1,9 @@
 este archivito nuevo quiero que se lo descargue fran, lo modifique y 
-lo 
+lo ***
 suba
 de nuevo a git
----------------------------
+agrego este renglon en blanco
+
+ *****---------------------------
 subi este pie de pagina
 -------------------------------
