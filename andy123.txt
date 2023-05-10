@@ -2,3 +2,6 @@ este archivito nuevo quiero que se lo descargue fran, lo modifique y
 lo 
 suba
 de nuevo a git
+---------------------------
+subi este pie de pagina
+-------------------------------
